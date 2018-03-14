@@ -61,7 +61,8 @@ return
 ; Inputs til Superoffice m.m.
 #include %A_ScriptDir%\inputs\inputs.ahk
 
-
+; Application switcher.
+#include %A_ScriptDir%\Miscellaneous\application_switcher.ahk
 
 ; ---------------------------------
 ; Script Icon
