@@ -1,4 +1,7 @@
 ### What it is
+
+(Originally Created by Asger Juul Brunshøj)
+
 This is a small GUI that allows you to run any normal AutoHotkey command or block of code by typing a name for the command you want to run. I wrote this script because I was creating more and more hotkeys for various things, but I ran out of keys on my keyboard to assign hotkeys to. It is designed to be as minimal as possible.
 
 ![Screenshot](/img/ahk_launcher.png "Screenshot of the GUI")
